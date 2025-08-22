@@ -1,5 +1,5 @@
 # BMW Sales Dashboard
-![Pizza Sales Dashboard](assets/dashboard_preview.png)
+![Pizza Sales Dashboard](bmw_sales.png)
 # Overview
 
 This project features a comprehensive BMW Sales Dashboard that provides insights into revenue performance, sales channels, product analytics, and geographical distribution. The dashboard presents key metrics in a visual format to help stakeholders understand sales trends and make data-driven decisions.
