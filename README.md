@@ -23,6 +23,7 @@ Geographical sales distribution
 Established relationships between different data tables to enable comprehensive analysis
 
 # Dashboard Components
+
 **1. Revenue Overview**
 
 Total Revenue: $1.13 billion
@@ -39,7 +40,9 @@ Yearly Revenue Breakdown:
 
 2023: $220.7M
 
+
 **2. Revenue by Channel**
+
 
 Online Sales: 33.12% of total revenue
 
@@ -57,7 +60,11 @@ BMW 7 Series: $77,340.33
 
 BMW iX3: $77,900.48
 
-4. Sales by Car Series
+
+
+**4. Sales by Car Series**
+
+
 Quantity sold by series:
 
 BMW 3 Series: 210 units
@@ -68,7 +75,13 @@ BMW 5 Series: 174 units
 
 BMW 6 Series: 192 units
 
+
+
+
 **5. Geographical Distribution**
+
+
+
 
 Sales by country (quantity sold):
 
